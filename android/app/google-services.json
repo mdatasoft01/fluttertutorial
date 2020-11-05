@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520561413897",
+    "firebase_url": "https://school-68c47.firebaseio.com",
+    "project_id": "school-68c47",
+    "storage_bucket": "school-68c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520561413897:android:7481bb2c77833b4f240dd8",
+        "android_client_info": {
+          "package_name": "com.ketanchoyal.our_e_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520561413897-44km4juug78b0rnc9n2qlremt0fmgd8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKj9l-mvVT11ava2krdPlLv9pOx-70mPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520561413897-44km4juug78b0rnc9n2qlremt0fmgd8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
